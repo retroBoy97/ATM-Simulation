@@ -7,11 +7,13 @@
 ## 📸 Screenshots
 
 ### User Interface
-![User GUI Placeholder](https://placehold.co/800x450?text=User+GUI+Screenshot)
+![User GUI](Screenshots/User_GUI.png)
 
-### Admin Panel
-![Admin GUI Placeholder](https://placehold.co/800x450?text=Admin+GUI+Screenshot)
+### Admin Main Menu
+![Admin Main Menu](Screenshots/Admin_Main_Menu.png)
 
+### Admin Casette Menu
+![Admin Casette Menu](Screenshots/Admin_Casette_Menu.png)
 ---
 
 ## 📋 Overview
